@@ -1,6 +1,6 @@
-收集具有时代里意义的历史性演讲与访谈视频。
+收集具有划时代意义的演讲与访谈视频。
 
-Collect historical speeches and interview videos that made an epoch-making impact.
+Collect speeches and interview videos that made an epoch-making impact.
 
 |Event|Description|URLs|Time|
 |-|-|-|-|
